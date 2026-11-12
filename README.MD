@@ -1,6 +1,6 @@
 # App Name
 
-A brief description of the mobile application and its purpose.  
+This app allows prospective buyers and boating enthusiasts to browse a curated catalog of luxury vessels offered by GetABoat, showcasing each boat's name, category icon, detailed description, and visual preview in a modern mobile interface built with React Native.
 
 # ScreenShots of App BEFORE applying Stylesheet changes
 
@@ -11,6 +11,9 @@ Screenshots: <br>
 # ScreenShots of App AFTER applying Stylesheet changes
 
 Screenshots: <br>
+<img height="600" src="C:\Republic polytechnic\AY2026 Semester 2\C346 Mobile App Development\C346_Projects\L08\ScreenshotsAfterChanges\Screenshot_20261112_121950.png" width="300"/>
+<img height="600" src="C:\Republic polytechnic\AY2026 Semester 2\C346 Mobile App Development\C346_Projects\L08\ScreenshotsAfterChanges\Screenshot_20261112_122140.png" width="300"/>
+<img height="600" src="C:\Republic polytechnic\AY2026 Semester 2\C346 Mobile App Development\C346_Projects\L08\ScreenshotsAfterChanges\Screenshot_20261112_122219.png" width="300"/>
 
 # Link to Demo Video with audible narration explaining styling changes with code reference
 
